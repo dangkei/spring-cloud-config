@@ -1,2 +1,2 @@
-# spring-cloud-config
+# spring-cloud-config - DEMO
 spring-cloud-config-repos
